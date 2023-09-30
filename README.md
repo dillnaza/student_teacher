@@ -46,13 +46,13 @@
 ### Форма Form9
 - Добавление нового преподавателя.
 
-## Контакты
-
-- gmail: dilnazbaidakhanova@gmail.com
-- telegram: @dillnazzza
-
 ## Инструкции по установке
 
 1. Склонируйте репозиторий на свой локальный компьютер.
 2. Откройте проект в Visual Studio.
 3. Запустите приложение, выбрав точку входа в качестве Form1.
+
+## Контакты
+
+- gmail: dilnazbaidakhanova@gmail.com
+- telegram: @dillnazzza
